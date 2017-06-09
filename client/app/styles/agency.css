@@ -605,3 +605,6 @@ ul.social-buttons {
 .navbar {
   position: absolute;
 }
+.bg-light-gray {
+  background-color: #eee;
+}
